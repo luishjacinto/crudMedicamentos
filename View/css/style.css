@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px 
+}
+body{
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    font: 900;
+}
+
+#menu {
+    margin: 0 auto;
+    width: 50%;
+}
+
+input {
+    margin-top: 5%;
+}
+
+table {
+    margin: 0 auto;  
+    text-align: center;
+}
+
+th {
+    padding: 0.5em;
+}
+
